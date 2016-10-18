@@ -9,6 +9,8 @@ public class words {
 	private String eight;
 	private String nine;
 	private String ten;
+	
+	//Hi Kevin! See? I'm stalking you... -Linna
 
 	public String getOne() {
 		return one;
